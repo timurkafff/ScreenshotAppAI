@@ -1,0 +1,5 @@
+keyboard
+pyautogui
+Pillow
+pystray
+google-genai
