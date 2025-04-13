@@ -1,7 +1,3 @@
-Here’s a polished GitHub-friendly description for your `ScreenshotApp` repository:
-
----
-
 ### **ScreenshotApp: AI-Powered Screenshot Analysis Tool**  
 
 🚀 **Capture, Analyze, and Get Insights Instantly**  
